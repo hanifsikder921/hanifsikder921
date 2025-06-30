@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/m5K58mzv/Untitled-design.png" alt="Hanif Sikder GitHub Banner" style="width:100%; border-radius:10px" />
+<img src="[https://i.ibb.co/m5K58mzv/Untitled-design.png](https://i.ibb.co/cc2VyHzz/web3.gif)" alt="Hanif Sikder GitHub Banner" style="width:100%; border-radius:10px" />
 
 <h1 align="center">Hi 👋, I'm Hanif Sikder</h1>
 <h3 align="center">🚀 Junior MERN Stack Developer | Passionate about Web Technology</h3>
