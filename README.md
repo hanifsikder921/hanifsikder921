@@ -6,19 +6,35 @@
 
 ---
 
-## 💫 About Me:
+## 🚀 What I Do:
+- 🌐 Build fully responsive and mobile-friendly web interfaces using **HTML5, CSS3, Tailwind CSS, and JavaScript (ES6+)**
 
-I'm a passionate **Junior MERN Stack Developer** who loves building responsive web applications with clean UI/UX and efficient backend logic.  
-I enjoy exploring new technologies and turning ideas into real-world applications.
+- ⚛️ Develop dynamic frontend applications with **React.js**, including **React Hooks**, **Context API**, and component-based architecture
 
-### 🔍 Currently:
-- 🔭 I’m working on a **Roommate Finder Web App**
-- 🌱 I’m exploring **Next.js** and **Server Components**
-- 💬 Ask me about **React, Node.js, Firebase, MongoDB**
-- 🧩 Learning advanced **Authentication & Authorization** patterns
-- 🤝 Available for remote **Frontend/MERN** projects and collaborations
+- 🔐 Implement user authentication and authorization using **Firebase**, **JWT**, and other secure methods
+
+- 🛠️ Design and build RESTful APIs with **Node.js** and **Express.js**
+
+- 🗂️ Handle data modeling and querying using **MongoDB**
+
+- 🔄 Work with **Git & GitHub** for version control and team collaboration
 
 ---
+
+## 📚 Currently Learning:
+- 📦 **Next.js** with Server Components for improved performance and routing
+
+- 🔐 Advanced **Authentication & Authorization** patterns for production-grade security
+
+- ☁️ Exploring deployment strategies and performance optimization
+
+---
+
+## 🤝 Open To:
+- 🧑‍💻 Remote collaboration on **Frontend** or **Full-Stack MERN** projects
+
+- 🛠️ Freelance or part-time roles where clean code and performance matter
+
 
 ## 🔧 Skills & Tools:
 
