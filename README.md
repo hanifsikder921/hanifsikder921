@@ -6,6 +6,12 @@
 
 ---
 
+## 💫 About Me:
+
+I'm a passionate **Junior MERN Stack Developer** who loves building responsive web applications with clean UI/UX and efficient backend logic.  
+I enjoy exploring new technologies and turning ideas into real-world applications.
+
+
 ## 🚀 What I Do:
 - 🌐 Build fully responsive and mobile-friendly web interfaces using **HTML5, CSS3, Tailwind CSS, and JavaScript (ES6+)**
 
