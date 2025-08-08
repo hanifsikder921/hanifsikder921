@@ -64,7 +64,7 @@ I enjoy exploring new technologies and turning ideas into real-world application
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 Social:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://hanifsikder.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhanifsikderpersonal@gmail.com)
@@ -72,6 +72,13 @@ I enjoy exploring new technologies and turning ideas into real-world application
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hanif.sikder.920)
 [![X](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hanifsikder920)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mdhanifsikder)
+
+---
+
+## 📫 Let’s connect:
+
+- Email: mdhanifsikderpersonal@gmail.com
+- WhatsApp: +8801609949558
 
 ---
 
